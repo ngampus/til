@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '30 23 * * *'  # Daily 23:30 UTC (06:30 WIB next day)
   workflow_dispatch:
-    inputs: {}
 
 permissions:
   contents: write
