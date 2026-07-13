@@ -49,7 +49,7 @@ jobs:
           esac
           
           # Add daily entry
-          cat >> README.md <<'HEREEOF'
+          cat >> README.md <<HEREEOF
 #### $DATE (Day $DAY_NUM)
 
 - **TIL**: Daily DevOps learning entry
