@@ -32,3 +32,10 @@ Daily micro-commits for the **90-Day DevOps GitHub Fulfillment** journey.
 - **Focus**: IaC
 
 # TIL workflow fix
+
+#### 2026-07-14 (Day 2)
+
+- **TIL**: Streak day 3 - CI/CD Showcase project scaffolded with GitHub Actions, GitLab CI, and Jenkins pipelines; profile automation live
+- **Progress**: Day 2/90
+- **Focus**: IaC
+
