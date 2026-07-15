@@ -39,3 +39,10 @@ Daily micro-commits for the **90-Day DevOps GitHub Fulfillment** journey.
 - **Progress**: Day 2/90
 - **Focus**: IaC
 
+
+#### 2026-07-16 (Day 4)
+
+- **TIL**: Day 3 - CI/CD Showcase: GitHub Actions matrix builds, reusable workflows, Docker layer caching; GitLab CI parallel jobs; Jenkins shared libraries
+- **Progress**: Day 4/90
+- **Focus**: Observability
+
