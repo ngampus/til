@@ -46,3 +46,10 @@ Daily micro-commits for the **90-Day DevOps GitHub Fulfillment** journey.
 - **Progress**: Day 4/90
 - **Focus**: Observability
 
+
+#### 2026-07-15 (Day 3)
+
+- **TIL**: Day 3 - Fleshing out CI/CD Showcase: Go test suite with coverage, Docker multi-stage build, GitHub Actions matrix strategy, security scanning
+- **Progress**: Day 3/90
+- **Focus**: K8s
+
